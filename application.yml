@@ -1,2 +1,2 @@
 bedrock.timeout: 100
-foo
+foo: appl.foo
